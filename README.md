@@ -4,6 +4,9 @@
 
 `src/main/scala/cnam/Conf.scala`
 
+## Jeu de données
+`data/electricity.csv`
+
 ## Lancement
 
 `spark-submit package.jar <interval> <history> <method>`
